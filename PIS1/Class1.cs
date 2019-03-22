@@ -8,7 +8,6 @@ namespace PIS1
 {
     class Class1
     {
-        public void bok()
-        { }
+        public void bok(){}
     }
 }
